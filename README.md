@@ -1,16 +1,69 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=9900CC&fontAlign=50&section=header">
 
-<!--
-**EduardaKauane/EduardaKauane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" width="100%">
 
-Here are some ideas to get you started:
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9619ABFF&width=900&size=26&center=true&pause=1500&lines=Eduarda+Kauane" 
+    alt="Typing SVG"
+  />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9619ABFF&width=900&size=22&center=true&pause=1500&lines=Student+of+ADS" 
+    alt="Typing SVG"
+  />
+</div>
+
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9619ABFF&width=900&size=22&center=true&lines=I'm+a+student+of+Computer+Science;Be+welcome!" alt="Typing SVG"/>
+</div>
+
+---
+<img align="right" height="385" src="https://i.imgur.com/m2Tbs4B.png" />
+
+
+### 👩‍💻 About Me
+- 🔭 I am looking for my first job opportunity.
+- 📚 I’m currently studying Computer Science.
+- 🎯 Passionate about technology, logic and learning new things.
+- 🎓 Backend Developer.
+- 💬 I am currently living in Brazil and focused on improving my professional skills. I am passionate about technology and always looking for new challenges in programming, with an emphasis on continuous learning and growth. I enjoy exploring new tools and technologies, especially in back-end development.
+
+---
+    
+<br></details>
+
+<div align="left">
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=eduardakauane&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardakauane&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"/>
+  <br>
+  <br>
+  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardakauane&theme=tokyonight"/>
+</div>
+
+---
+
+<!-- === Seção de Linguagens (apenas HTML e CSS) === -->
+<div align="center" style="margin-top: 16px;">
+  <table>
+    <tr>
+      <td align="center" style="padding: 8px;">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" /><br>
+        <strong>HTML</strong>
+      </td>
+      <td align="center" style="padding: 8px;">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" /><br>
+        <strong>CSS</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevPeuh/DevPeuh/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevPeuh/DevPeuh/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DevPeuh/DevPeuh/output/pacman-contribution-graph.svg">
+</picture>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=9900CC&fontAlign=50&section=footer">
