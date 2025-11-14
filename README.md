@@ -20,10 +20,10 @@
 
 ### 👩‍💻 About Me
 - 🔭 I am looking for my first job opportunity.
-- 📚 I’m currently studying Computer Science.
+- 📚 I’m currently studying Systems Analysis and Development.
 - 🎯 Passionate about technology, logic and learning new things.
-- 🎓 Backend Developer.
-- 💬 I am currently living in Brazil and focused on improving my professional skills. I am passionate about technology and always looking for new challenges in programming, with an emphasis on continuous learning and growth. I enjoy exploring new tools and technologies, especially in back-end development.
+- 🎓 Front-end Developer.
+- 💬 I am currently living in Brazil and focused on improving my professional skills. I am passionate about technology and always looking for new challenges in programming, with an emphasis on continuous learning and growth. I enjoy exploring new tools and technologies, especially in front-end development.
 
 ---
     
