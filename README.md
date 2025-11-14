@@ -32,8 +32,6 @@
 <div align="left">
   <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=eduardakauane&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"/>
   <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardakauane&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"/>
-  <br>
-  
   <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardakauane&theme=tokyonight"/>
 </div>
 
