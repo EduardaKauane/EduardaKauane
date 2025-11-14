@@ -14,11 +14,6 @@
   />
 </div>
 
-
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9619ABFF&width=900&size=22&center=true&lines=I'm+a+student+of+Computer+Science;Be+welcome!" alt="Typing SVG"/>
-</div>
-
 ---
 <img align="right" height="385" src="https://i.imgur.com/m2Tbs4B.png" />
 
