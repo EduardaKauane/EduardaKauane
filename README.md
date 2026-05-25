@@ -18,22 +18,14 @@
 <img align="right" height="385" src="https://i.imgur.com/m2Tbs4B.png" />
 
 
-### 👩‍💻 About Me
-- 🔭 I am looking for my first job opportunity.
-- 📚 I’m currently studying Systems Analysis and Development.
-- 🎯 Passionate about technology, logic and learning new things.
-- 🎓 Front-end Developer.
-- 💬 I am currently living in Brazil and focused on improving my professional skills. I am passionate about technology and always looking for new challenges in programming, with an emphasis on continuous learning and growth. I enjoy exploring new tools and technologies, especially in front-end development.
+### About Me
+- I am looking for my first job opportunity.
+- I’m currently studying Systems Analysis and Development. 🎓
+- Front-end Developer.
+- I am currently living in Brazil and focused on improving my professional skills. I am passionate about technology and always looking for new challenges in programming, with an emphasis on continuous learning and growth. I enjoy exploring new tools and technologies, especially in front-end development.
 
----
-    
-<br></details>
 
-<div align="left">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=eduardakauane&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardakauane&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"/>
-  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardakauane&theme=tokyonight"/>
-</div>
+
 
 ---
 
@@ -48,6 +40,22 @@
       <td align="center" style="padding: 8px;">
         <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" /><br>
         <strong>CSS</strong>
+      </td>
+      <td align="center" style="padding: 8px;">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" /><br>
+        <strong>JS</strong>
+      </td>
+      <td align="center" style="padding: 8px;">
+        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="48" /><br>
+        <strong>Python</strong>
+      </td>
+      <td align="center" style="padding: 8px;">
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" /><br>
+        <strong>Java</strong>
+      </td>
+      <td align="center" style="padding: 8px;">
+        <img src="https://skillicons.dev/icons?i=c" alt="C" width="48" /><br>
+        <strong>C</strong>
       </td>
     </tr>
   </table>
